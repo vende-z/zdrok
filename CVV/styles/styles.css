@@ -1,0 +1,260 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #f5f7fa;
+}
+
+/* main */
+.main {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+/* main content */
+.main-content {
+    background-color: #fff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+    padding: 50px 90px;
+    }
+
+/* .about */
+.about {
+    margin-bottom: 40px;
+}
+
+.about-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.about-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    line-height: 55px;
+    color: #000000;
+    margin-bottom: 25px;
+}
+
+.about-description {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+    width: 550px;
+}
+
+.title-project,
+.title-class,
+.title-education {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.projects {
+    margin-bottom: 50px;
+}
+
+.proj-list {
+    padding: 0;
+    margin-left: 15px;
+}
+
+.projecs-item {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.project-link,
+.project {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.project-link{
+    margin-left: 10px;
+}
+
+.project-bracket {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.work {
+    margin-bottom: 45px;
+}
+
+.work-position {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+.organiz {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+}
+
+.period {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #a8a8a8;
+    margin-bottom: 8px;
+}
+
+.line {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000;
+}
+
+.work-list {
+    padding: 0;
+    margin-left: 15px;
+}
+
+.w-l-p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+
+.table-work {
+    border-collapse: collapse;
+    padding: 200px;
+}
+
+.first-table {
+    padding-right: 100px;
+}
+
+.education {
+    margin-bottom: 45px;
+}
+
+.education-name {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #FB6D3A;
+    margin-bottom: 10px;
+}
+
+.departam {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    margin-bottom: 10px;
+}
+
+/* sidebar */
+.sidebar {
+    background-color: #1E2939;
+    padding-top: 5px;
+    width: 370px;
+}
+
+/* foto */
+.img {
+    width: 370px;
+    margin-bottom: 10px;
+}
+
+.contacts,
+.tech-skills,
+.soft-skils{
+    margin-left: 40px;
+}
+
+.contacts {
+    margin-bottom: 50px;
+    font-size: 5px;
+}
+
+.tech-skills {
+    margin-bottom: 45px;
+}
+
+.sidebar-title {
+    color: #ffffff;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 27px;
+    margin-bottom: 10px;
+}
+
+.contact-type {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #ffffff;  
+}
+
+.contact-link {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 24px;
+    color: #565e6a;
+    margin-right: 10px;
+}
+
+.tech-skils-list,
+.soft-skils-list,
+.language-skils-list {
+    color: #fff;
+    padding: 0;
+    margin-left: 17px;
+    margin-bottom: 45px;
+}
+
+.tech-skills-item,
+.soft-skills-item,
+.language-skills-item {
+    color: #FB6D3A;
+}
+
+.tech-skills-text,
+.soft-skills-text,
+.language-skills-text {
+    color: #fff;
+    font-style: normal;
+    Font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;    
+}
