@@ -1,2 +1,0 @@
-# zdrok
-test-zdrok
